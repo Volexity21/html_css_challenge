@@ -15,9 +15,9 @@ N/A
 This page will serve as an introduction to a real website with real applications to it with great information about a product, image inclusion, and basic wepage navigation functions.
 
 Below you will find a screenshot to my updated website.
-![This is the webpage's first image](./Develop/assets/images/webpage_1)
+![This is the webpage's first image](./assets/images/webpage_1.png)
 
-![This is the webpage's second image](./Delope/assets/images/webpage_2)
+![This is the webpage's second image](./assets/images/webpage_2.png)
 
 [Next will be the link you can reach the webpage at!](https://volexity21.github.io/html_css_challenge/#social-media-marketing)
 
