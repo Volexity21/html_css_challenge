@@ -19,9 +19,7 @@ Below you will find a screenshot to my updated website.
 
 ![This is the webpage's second image](./Delope/assets/images/webpage_2)
 
-Next will be the link you can reach the webpage at!
-
-
+[Next will be the link you can reach the webpage at!](https://volexity21.github.io/html_css_challenge/#social-media-marketing)
 
 ## Credits
 
